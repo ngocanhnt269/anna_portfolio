@@ -61,7 +61,7 @@ export default function Works() {
                   <h2>{d.title}</h2>
                   <p>{d.desc}</p>
                   <a href={d.link}>
-                    <span>Projects</span>
+                    <span>Click here to see Projects</span>
                   </a>
                 </div>
               </div>
