@@ -25,7 +25,7 @@ export default function Testimonials() {
       title: "Sales associate",
       img: "./assets/a.jpg",
       icon: "assets/twitter.png",
-      desc: "•	Built connections with customers to increase the retention of sales: more than 10 times super-sales recognition.",
+      desc: "Built connections with customers to increase the retention of sales: more than 10 times super-sales recognition.",
     },
     {
       id: 4,
