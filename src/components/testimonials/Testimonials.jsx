@@ -23,7 +23,7 @@ export default function Testimonials() {
       id: 3,
       name: "Club Monaco",
       title: "Sales associate",
-      img: "./assets/anna.jpg",
+      img: "./assets/a.jpg",
       icon: "assets/twitter.png",
       desc: "•	Built connections with customers to increase the retention of sales: more than 10 times super-sales recognition.",
     },
