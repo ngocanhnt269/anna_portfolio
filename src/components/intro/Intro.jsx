@@ -10,7 +10,7 @@ export default function Intro() {
       showCursor: false,
       backDelay: 1500,
       backSpeed: 60,
-      strings: ["Engineer"],
+      strings: ["Student"],
     });
   }, []);
 
@@ -26,7 +26,7 @@ export default function Intro() {
           <h2>Hi There, I'm</h2>
           <h1>Anna Nguyen</h1>
           <h3>
-            Software <span ref={textRef}></span>
+            Computer Science <span ref={textRef}></span>
           </h3>
         </div>
         <a href="#portfolio">
